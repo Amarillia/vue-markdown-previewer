@@ -9,8 +9,7 @@
 <script>
 import marked from "marked";
 
-export default {
-};
+export default {};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only 
